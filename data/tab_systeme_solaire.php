@@ -1,5 +1,4 @@
 <?php
-
 $systeme_solaire =
 [
     1 => "Mercure",
